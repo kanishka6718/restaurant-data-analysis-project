@@ -1,1 +1,1 @@
-# resturant-data-analysis-project
+# restaurant-data-analysis-project
