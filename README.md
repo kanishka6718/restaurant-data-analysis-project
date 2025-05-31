@@ -1,6 +1,4 @@
-# restaurant-data-analysis-project
-
-## 🍽️ Restaurant Orders SQL Project
+# 🍽️ Restaurant Orders SQL Project
 This project is a hands-on SQL analysis of a fictional restaurant's order data. The goal was to move beyond solving standalone SQL queries and explore real-world datasets — asking the right questions, writing efficient queries, and uncovering insights from raw data.
 
 ## 📁 Dataset
@@ -10,7 +8,7 @@ menu_items: A list of international dishes with their prices and categories
 
 order_details: A log of customer orders, including item IDs and timestamps
 
-## Total Records: 12,266
+Total Records: 12,266
 Tables: 2
 Fields: 8
 
